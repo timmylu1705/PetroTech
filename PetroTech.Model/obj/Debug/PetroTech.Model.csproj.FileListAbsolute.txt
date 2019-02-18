@@ -22,3 +22,15 @@ C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Model\obj\Debug\P
 C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.csproj.CopyComplete
 C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.dll
 C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.pdb
+D:\Project\PetroTech\PetroTech.Model\bin\Debug\PetroTech.Model.dll.config
+D:\Project\PetroTech\PetroTech.Model\bin\Debug\PetroTech.Model.dll
+D:\Project\PetroTech\PetroTech.Model\bin\Debug\PetroTech.Model.pdb
+D:\Project\PetroTech\PetroTech.Model\bin\Debug\EntityFramework.dll
+D:\Project\PetroTech\PetroTech.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\PetroTech\PetroTech.Model\bin\Debug\EntityFramework.xml
+D:\Project\PetroTech\PetroTech.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.csprojAssemblyReference.cache
+D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.csproj.CoreCompileInputs.cache
+D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.csproj.CopyComplete
+D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.dll
+D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.pdb

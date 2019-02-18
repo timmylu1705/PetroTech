@@ -39,9 +39,13 @@ namespace PetroTech.Model.Models
         public string PaymentMethod { get; set; }
 
         public string CreatedBy { get; set; }
+
         public DateTime? CreatedDateTime { get; set; }
+
         public string LastUpdatedBy { get; set; }
+
         public DateTime? LastUpdatedDateTime { get; set; }
+        
         public bool Status { get; set; }
 
         public virtual IEnumerable<OrderDetail> OrderDetails { get; set; }
