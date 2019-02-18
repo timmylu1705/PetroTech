@@ -1,0 +1,96 @@
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.UnitTest.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.UnitTest.pdb
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Internal Project\PetroTech\PetroTech.UnitTest\obj\Debug\PetroTech.UnitTest.csprojAssemblyReference.cache
+D:\Internal Project\PetroTech\PetroTech.UnitTest\obj\Debug\PetroTech.UnitTest.csproj.CoreCompileInputs.cache
+D:\Internal Project\PetroTech\PetroTech.UnitTest\obj\Debug\PetroTech.UnitTest.csproj.CopyComplete
+D:\Internal Project\PetroTech\PetroTech.UnitTest\obj\Debug\PetroTech.UnitTest.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\obj\Debug\PetroTech.UnitTest.pdb
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\ApplicationInsights.config
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Common.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Data.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Main.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Model.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Service.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Optimization.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Mvc.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Http.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Razor.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\Newtonsoft.Json.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Common.pdb
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Data.pdb
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Data.dll.config
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Main.pdb
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Main.dll.config
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Model.pdb
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Model.dll.config
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Service.pdb
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Optimization.xml
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Mvc.xml
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Http.xml
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.xml
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Razor.xml
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+D:\Internal Project\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\ApplicationInsights.config
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.UnitTest.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.UnitTest.pdb
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Common.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Data.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Main.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Model.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Service.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Optimization.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Mvc.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Http.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Razor.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Common.pdb
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Data.pdb
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Data.dll.config
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Main.pdb
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Main.dll.config
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Model.pdb
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Model.dll.config
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\PetroTech.Service.pdb
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Optimization.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Mvc.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Http.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.Razor.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\obj\Debug\PetroTech.UnitTest.csprojAssemblyReference.cache
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\obj\Debug\PetroTech.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\obj\Debug\PetroTech.UnitTest.csproj.CopyComplete
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\obj\Debug\PetroTech.UnitTest.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.UnitTest\obj\Debug\PetroTech.UnitTest.pdb

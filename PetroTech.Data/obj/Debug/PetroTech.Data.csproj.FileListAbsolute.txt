@@ -1,0 +1,28 @@
+D:\Internal Project\PetroTech\PetroTech.Data\bin\Debug\PetroTech.Data.dll
+D:\Internal Project\PetroTech\PetroTech.Data\bin\Debug\PetroTech.Data.pdb
+D:\Internal Project\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.csprojAssemblyReference.cache
+D:\Internal Project\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.csproj.CoreCompileInputs.cache
+D:\Internal Project\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.dll
+D:\Internal Project\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.pdb
+D:\Internal Project\PetroTech\PetroTech.Data\bin\Debug\PetroTech.Data.dll.config
+D:\Internal Project\PetroTech\PetroTech.Data\bin\Debug\EntityFramework.dll
+D:\Internal Project\PetroTech\PetroTech.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Internal Project\PetroTech\PetroTech.Data\bin\Debug\PetroTech.Common.dll
+D:\Internal Project\PetroTech\PetroTech.Data\bin\Debug\PetroTech.Common.pdb
+D:\Internal Project\PetroTech\PetroTech.Data\bin\Debug\EntityFramework.xml
+D:\Internal Project\PetroTech\PetroTech.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Internal Project\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.csproj.CopyComplete
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\bin\Debug\PetroTech.Data.dll.config
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\bin\Debug\PetroTech.Data.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\bin\Debug\PetroTech.Data.pdb
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\bin\Debug\EntityFramework.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\bin\Debug\PetroTech.Common.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\bin\Debug\PetroTech.Common.pdb
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\bin\Debug\EntityFramework.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.csprojAssemblyReference.cache
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.csproj.CopyComplete
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.dll
+C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.pdb
