@@ -15,7 +15,7 @@ namespace PetroTech.Main.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description pagess.";
+            ViewBag.Message = "Your application description pagesss.";
 
             return View();
         }
