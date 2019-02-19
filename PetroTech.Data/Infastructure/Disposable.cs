@@ -22,7 +22,7 @@ namespace PetroTech.Data.Infastructure
         }
         private void Dispose(bool disposing)
         {
-            if(!isDisposed && disposing)
+            if (!isDisposed && disposing)
             {
                 DisposeCore();
             }
@@ -30,9 +30,6 @@ namespace PetroTech.Data.Infastructure
             isDisposed = true;
         }
 
-        protected virtual void DisposeCore()
-        {
-
-        }
+        protected virtual void DisposeCore() { }
     }
 }

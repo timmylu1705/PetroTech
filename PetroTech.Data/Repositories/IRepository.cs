@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PetroTech.Data.Infastructure
+namespace PetroTech.Data.Repositories
 {
     public interface IRepository<T> where T : class
     {
