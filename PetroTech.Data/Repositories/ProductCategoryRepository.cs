@@ -1,11 +1,7 @@
 ﻿using PetroTech.Data.Infastructure;
 using PetroTech.Model.Models;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PetroTech.Data.Repositories
 {
@@ -16,7 +12,9 @@ namespace PetroTech.Data.Repositories
 
     public class ProductCategoryRepository : Repository<ProductCatelogy>, IProductCategoryRepository
     {
-        public ProductCategoryRepository(DBFactory dBFactory) : base(dBFactory) { }
+        public ProductCategoryRepository(DBFactory dBFactory) : base(dBFactory)
+        {
+        }
 
         public IEnumerable<ProductCatelogy> GetByAlias(string alias)
         {
