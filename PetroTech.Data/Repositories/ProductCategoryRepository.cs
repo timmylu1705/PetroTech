@@ -5,11 +5,6 @@ using System.Linq;
 
 namespace PetroTech.Data.Repositories
 {
-    public interface IProductCategoryRepository
-    {
-        IEnumerable<ProductCatelogy> GetByAlias(string alias);
-    }
-
     public class ProductCategoryRepository : Repository<ProductCatelogy>, IProductCategoryRepository
     {
         public ProductCategoryRepository(DBFactory dBFactory) : base(dBFactory)

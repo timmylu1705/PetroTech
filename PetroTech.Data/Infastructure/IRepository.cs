@@ -15,6 +15,10 @@ namespace PetroTech.Data.Infastructure
 
         void Delete(T entity);
 
+        void Delete(int id);
+
+        void Delete(string id);
+
         void DeleteMulti(Expression<Func<T, bool>> where);
 
         T GetSingleByIntId(int id);

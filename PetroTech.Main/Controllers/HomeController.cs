@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using static PetroTech.Common.Resource.EnumTools;
+using static PetroTech.Common.Resource.Helper.Enum;
+using PetroTech.Common.Resource;
 
 namespace PetroTech.Main.Controllers
 {
@@ -10,20 +13,6 @@ namespace PetroTech.Main.Controllers
     {
         public ActionResult Index()
         {
-            return View();
-        }
-
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description pagesss.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
             return View();
         }
     }
