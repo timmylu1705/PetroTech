@@ -22,11 +22,11 @@ namespace PetroTech.Model.Models
 
         [Required]
         [MaxLength(256)]
-        [Column(TypeName = "varchar")]
+        [Column(TypeName = "nvarchar")]
         public string Alias { get; set; }
 
         [Required]
-        public int PostCatelogyID { get; set; }
+        public string PostCatelogyID { get; set; }
 
         public string Image { get; set; }
 

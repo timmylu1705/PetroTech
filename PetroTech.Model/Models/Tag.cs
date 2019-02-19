@@ -14,7 +14,7 @@ namespace PetroTech.Model.Models
     {
         [Key]
         [MaxLength(50)]
-        [Column(TypeName = "varchar")]
+        [Column(TypeName = "nvarchar")]
         public string TagID { get; set; }
 
         [Required]

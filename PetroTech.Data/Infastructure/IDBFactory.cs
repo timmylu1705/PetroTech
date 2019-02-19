@@ -8,6 +8,6 @@ namespace PetroTech.Data.Infastructure
 {
     public interface IDBFactory : IDisposable
     {
-        RetroDbContext Init();
+        PetroDbContext Init();
     }
 }

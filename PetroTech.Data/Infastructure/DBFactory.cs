@@ -8,17 +8,17 @@ namespace PetroTech.Data.Infastructure
 {
     public class DBFactory : Disposable, IDBFactory
     {
-        RetroDbContext retroDbContext;
+        PetroDbContext petroDbContext;
 
-        public RetroDbContext Init()
+        public PetroDbContext Init()
         {
-            return retroDbContext ?? (retroDbContext = new RetroDbContext());
+            return petroDbContext ?? (petroDbContext = new PetroDbContext());
         }
 
         protected override void DisposeCore()
         {
-            if (retroDbContext != null)
-                retroDbContext.Dispose();
+            if (petroDbContext != null)
+                petroDbContext.Dispose();
         }
     }
 }

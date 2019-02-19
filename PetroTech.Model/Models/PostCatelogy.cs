@@ -21,7 +21,7 @@ namespace PetroTech.Model.Models
 
         [Required]
         [MaxLength(256)]
-        [Column(TypeName = "varchar")]
+        [Column(TypeName = "nvarchar")]
         public string Alias { get; set; }
 
         [MaxLength(500)]

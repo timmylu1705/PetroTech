@@ -13,12 +13,11 @@ namespace PetroTech.Model.Models
     [Table("ProductTags")]
     public class ProductTag
     {
-        [Key]
+        [Key, Column(Order = 0)]
         public string ProductID { get; set; }
 
-        [Key]
+        [Key, Column(Order = 1, TypeName = "nvarchar")]
         [MaxLength(50)]
-        [Column(TypeName = "varchar")]
         public string TagID { get; set; }
 
         [ForeignKey("ProductID")]

@@ -18,7 +18,7 @@ namespace PetroTech.Model.Models
 
         [Required]
         [MaxLength(50)]
-        [Column(TypeName ="vachar")]
+        [Column(TypeName = "nvarchar")]
         public string Code { get; set; }
 
         [MaxLength(50)]

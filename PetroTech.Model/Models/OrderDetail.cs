@@ -12,10 +12,10 @@ namespace PetroTech.Model.Models
     [Table("OrderDetails")]
     public class OrderDetail
     {
-        [Key]
+        [Key, Column(Order = 0)]
         public string OrderID { get; set; }
 
-        [Key]
+        [Key, Column(Order = 1)]
         public string ProductID { get; set; }
 
         public int Quantitty { get; set; }

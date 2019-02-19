@@ -11,7 +11,7 @@ namespace PetroTech.Model.Models
     [Table("Menus")]
     public class Menu
     {
-        [Key]
+        [Key, Column(Order = 0)]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int MenuID { get; set; }
 
@@ -23,8 +23,8 @@ namespace PetroTech.Model.Models
 
         public int DisplayOrder { get; set; }
 
-        [Required]
-        public int MenuGroupID { get; set; }
+        [Key, Column(Order = 1)]
+        public string MenuGroupID { get; set; }
 
         [ForeignKey("MenuGroupID")]
         public virtual MenuGroup MenuGroup { get; set; }

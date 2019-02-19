@@ -9,21 +9,21 @@ namespace PetroTech.Data.Infastructure
     public class UnitOfWork : IUnitOfWork
     {
         private readonly IDBFactory dBFactory;
-        private RetroDbContext retroDbContext;
+        private PetroDbContext petroDbContext;
 
         public UnitOfWork(IDBFactory dBFactory)
         {
             this.dBFactory = dBFactory;
         }
 
-        public RetroDbContext RetroDbContext
+        public PetroDbContext PetroDbContext
         {
-            get { return retroDbContext ?? (retroDbContext = dBFactory.Init()); }
+            get { return petroDbContext ?? (petroDbContext = dBFactory.Init()); }
         }
 
         public void Commit()
         {
-            RetroDbContext.SaveChanges();
+            PetroDbContext.SaveChanges();
         }
     }
 }

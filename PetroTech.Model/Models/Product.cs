@@ -22,14 +22,15 @@ namespace PetroTech.Model.Models
 
         [Required]
         [MaxLength(256)]
-        [Column(TypeName = "varchar")]
+        [Column(TypeName = "nvarchar")]
         public string Alias { get; set; }
 
-        public int ProductCatelogyID { get; set; }
+        public string ProductCatelogyID { get; set; }
 
         public string Image { get; set; }
 
-        public XElement MoreImage { get; set; }
+        [Column(TypeName = "xml")]
+        public string MoreImage { get; set; }
 
         public decimal Price { get; set; }
 

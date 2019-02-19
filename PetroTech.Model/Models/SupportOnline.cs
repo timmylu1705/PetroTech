@@ -30,7 +30,6 @@ namespace PetroTech.Model.Models
         [MaxLength(50)]
         public string Facebook { get; set; }
 
-        [MaxLength(50)]
         public string Status { get; set; }
 
         public int? DisplayOrder { get; set; }
