@@ -29,7 +29,6 @@ D:\Project\PetroTech\PetroTech.Model\bin\Debug\EntityFramework.dll
 D:\Project\PetroTech\PetroTech.Model\bin\Debug\EntityFramework.SqlServer.dll
 D:\Project\PetroTech\PetroTech.Model\bin\Debug\EntityFramework.xml
 D:\Project\PetroTech\PetroTech.Model\bin\Debug\EntityFramework.SqlServer.xml
-D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.csprojAssemblyReference.cache
 D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.csproj.CoreCompileInputs.cache
 D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.csproj.CopyComplete
 D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.dll

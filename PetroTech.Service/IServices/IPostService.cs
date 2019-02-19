@@ -21,6 +21,8 @@ namespace PetroTech.Service.IServices
 
         Post GetByStringId(string id);
 
+        IEnumerable<Post> GetAllByCategory(string category, int page, int pagesize, out int totalRow);
+
         IEnumerable<Post> GetAllTagPaging(string tag, int page, int pagesize, out int totalRo);
 
         void SaveChanges();

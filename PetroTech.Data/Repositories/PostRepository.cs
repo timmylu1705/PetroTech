@@ -18,7 +18,8 @@ namespace PetroTech.Data.Repositories
             var query = from p in PetroDbContext.Posts
                         join pt in PetroDbContext.PostTags
                         on p.PostID equals pt.PostID
-                        where pt.TagID == tag
+                        where pt.TagID == tag && p.Status == "A"
+                        orderby p.CreateDateTime descending
                         select p;
 
             totalRow = query.Count();

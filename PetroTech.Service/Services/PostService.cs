@@ -46,6 +46,12 @@ namespace PetroTech.Service.Services
             return _postRepo.GetAll(new string[] { "PostCategory" });
         }
 
+        public IEnumerable<Post> GetAllByCategory(string category, int page, int pageSize, out int totalRow)
+        {
+            return _postRepo.GetMultiPaging(x => x.Status == "A" && x.PostCatelogyID == category,
+                out totalRow, page, pageSize, new string[] { "PostCategory" });
+        }
+
         public IEnumerable<Post> GetAllPaging(int page, int pagesize, out int totalRow)
         {
             Status status = Status.A;
@@ -53,11 +59,9 @@ namespace PetroTech.Service.Services
             return _postRepo.GetMultiPaging(x => x.Status == status.GetDescription(), out totalRow, page, pagesize);
         }
 
-        public IEnumerable<Post> GetAllTagPaging(string tag, int page, int pagesize, out int totalRow)
+        public IEnumerable<Post> GetAllTagPaging(string tag, int page, int pageSize, out int totalRow)
         {
-            Status status = Status.A;
-
-            return _postRepo.GetAllByTag();
+            return _postRepo.GetAllByTag(tag, page, pageSize, out totalRow);
         }
 
         public Post GetByStringId(string id)
