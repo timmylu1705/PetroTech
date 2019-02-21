@@ -50,9 +50,6 @@
   <ItemGroup>
     <Compile Include="Abtracts\CurrentBase.cs" />
     <Compile Include="Models\Log.cs" />
-    <Compile Include="Models\MenuGroup.cs" />
-    <Compile Include="Models\MenuGroupDetail.cs" />
-    <Compile Include="Models\MenuRole.cs" />
     <Compile Include="Models\Role.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Models\UserPassword.cs" />

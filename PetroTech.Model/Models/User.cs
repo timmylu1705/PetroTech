@@ -12,31 +12,32 @@ namespace PetroTech.Model.Models
     [Table("Users")]
     public class User : CurrentBase
     {
-        [Key]
+        [Required]
         public string CompanyCode { get; set; }
 
         [Key]
         public Guid UserId { get; set; }
 
         [Required]
-        [MaxLength(50)]
+        [MaxLength(256)]
         public string UserName { get; set; }
 
         [Required]
-        [MaxLength(50)]
+        [MaxLength(256)]
         public string FullName { get; set; }
 
         [Required]
-        [MaxLength(50)]
+        [MaxLength(256)]
         public string Email { get; set; }
 
         [Required]
-        [MaxLength(250)]
+        [MaxLength(256)]
         public string Address { get; set; }
 
         [Required]
         public int Phone { get; set; }
 
+        [Required]
         public string Status { get; set; }
 
         public virtual IEnumerable<UserPassword> UserPasswords { get; set; }

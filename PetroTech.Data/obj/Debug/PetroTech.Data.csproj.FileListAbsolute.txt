@@ -43,3 +43,5 @@ D:\Project\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.csproj.CoreCompileI
 D:\Project\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.csproj.CopyComplete
 D:\Project\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.dll
 D:\Project\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.pdb
+D:\Project\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.Migrations._21022019.resources
+D:\Project\PetroTech\PetroTech.Data\obj\Debug\PetroTech.Data.csproj.GenerateResource.cache

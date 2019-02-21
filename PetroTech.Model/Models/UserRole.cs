@@ -13,14 +13,13 @@ namespace PetroTech.Model.Models
     public class UserRole
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int No { get; set; }
+        public Guid UserRoleId { get; set; }
 
-        [Key]
-        public Guid UserId { get; set; }
-
-        [Key]
+        [Required]
         public Guid RoleId { get; set; }
+
+        [Required]
+        public Guid UserId { get; set; }
 
         public DateTime? LastUpdatedDatetime { get; set; }
 

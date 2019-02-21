@@ -13,9 +13,6 @@ namespace PetroTech.Model.Models
     public class Role : CurrentBase
     {
         [Key]
-        public string CompanyCode { get; set; }
-
-        [Key]
         public Guid RoleId { get; set; }
 
         [Required]

@@ -13,11 +13,15 @@ namespace PetroTech.Model.Models
     public class UserPassword : CurrentBase
     {
         [Key]
+        public Guid UserPasswordId { get; set; }
+
+        [Required]
         public string CompanyCode { get; set; }
 
-        [Key]
+        [Required]
         public Guid UserId { get; set; }
 
+        [Required]
         public string Password { get; set; }
 
         public int LoginCountTime { get; set; }
