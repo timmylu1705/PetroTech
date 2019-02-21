@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PetroTech.Model.Abtracts;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -9,14 +10,21 @@ using System.Threading.Tasks;
 namespace PetroTech.Model.Models
 {
     [Table("MenuGroups")]
-    public  class MenuGroup
+    public class MenuGroup : CurrentBase
     {
         [Key]
-        public string MenuGroupID { get; set; }
+        public Guid MenuGroupId { get; set; }
 
         [Required]
-        public string MenuGroupName { get; set; }
+        [MaxLength(250)]
+        public string MenuTag { get; set; }
 
-        public virtual IEnumerable<Menu> Menus { get; set; }
+        [Required]
+        [MaxLength(250)]
+        public string MenuGroupUrl { get; set; }
+
+        public virtual IEnumerable<MenuGroupDetail> MenuGroupDetails { get; set; }
+
+        public virtual IEnumerable<MenuRole> MenuRoles { get; set; }
     }
 }

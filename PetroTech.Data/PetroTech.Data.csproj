@@ -48,54 +48,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Infastructure\DBFactory.cs" />
-    <Compile Include="Infastructure\Disposable.cs" />
-    <Compile Include="Infastructure\IDBFactory.cs" />
-    <Compile Include="Infastructure\IRepository.cs" />
-    <Compile Include="Infastructure\IUnitOfWork.cs" />
-    <Compile Include="Infastructure\Repository.cs" />
-    <Compile Include="Infastructure\UnitOfWork.cs" />
-    <Compile Include="IRepositories\IFooterRepository.cs" />
-    <Compile Include="IRepositories\IMenuGroupRepository.cs" />
-    <Compile Include="IRepositories\IMenuRepository.cs" />
-    <Compile Include="IRepositories\IOrderDetailRepostory.cs" />
-    <Compile Include="IRepositories\IOrderRepository.cs" />
-    <Compile Include="IRepositories\IPageRepository.cs" />
-    <Compile Include="IRepositories\IPostCatelogyRepository.cs" />
-    <Compile Include="IRepositories\IPostRepository.cs" />
-    <Compile Include="IRepositories\IPostTagRepository.cs" />
-    <Compile Include="IRepositories\IProductCategoryRepository.cs" />
-    <Compile Include="IRepositories\IProductRepository.cs" />
-    <Compile Include="IRepositories\IProductTagRepository.cs" />
-    <Compile Include="IRepositories\ISildeRepository.cs" />
-    <Compile Include="IRepositories\ISupportOnlineRepository.cs" />
-    <Compile Include="IRepositories\ISystemConfigRepository.cs" />
-    <Compile Include="IRepositories\ITagRepository.cs" />
-    <Compile Include="IRepositories\IVisitorStatisticRepository.cs" />
-    <Compile Include="Migrations\201902190307341_1902019.cs" />
-    <Compile Include="Migrations\201902190307341_1902019.Designer.cs">
-      <DependentUpon>201902190307341_1902019.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Infa\DBFactory.cs" />
+    <Compile Include="Infa\Disposable.cs" />
+    <Compile Include="Infa\IDBFactory.cs" />
+    <Compile Include="Infa\IRepository.cs" />
+    <Compile Include="Infa\IUnitOfWork.cs" />
+    <Compile Include="Infa\Repository.cs" />
+    <Compile Include="Infa\UnitOfWork.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\FooterRepository.cs" />
-    <Compile Include="Repositories\MenuGroupRepository.cs" />
-    <Compile Include="Repositories\MenuRepository.cs" />
-    <Compile Include="Repositories\OrderDetailRepository.cs" />
-    <Compile Include="Repositories\OrderRepository.cs" />
-    <Compile Include="Repositories\PageRepository.cs" />
-    <Compile Include="Repositories\PostCatelogyRepository.cs" />
-    <Compile Include="Repositories\PostRepository.cs" />
-    <Compile Include="Repositories\PostTagRepository.cs" />
-    <Compile Include="Repositories\ProductCategoryRepository.cs" />
-    <Compile Include="PetroDbContext.cs" />
-    <Compile Include="Repositories\ProductRepository.cs" />
-    <Compile Include="Repositories\ProductTagRepository.cs" />
-    <Compile Include="Repositories\SildeRepository.cs" />
-    <Compile Include="Repositories\SupportOnlineRepository.cs" />
-    <Compile Include="Repositories\SystemConfigRepository.cs" />
-    <Compile Include="Repositories\TagRepository.cs" />
-    <Compile Include="Repositories\VisitorStatisticRepository.cs" />
+    <Compile Include="Db\PetroDbContext.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -112,9 +74,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201902190307341_1902019.resx">
-      <DependentUpon>201902190307341_1902019.cs</DependentUpon>
-    </EmbeddedResource>
+    <Folder Include="Repo\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -48,25 +48,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abtracts\BaseGeneral.cs" />
-    <Compile Include="Abtracts\IBaseGeneral.cs" />
-    <Compile Include="Models\Footer.cs" />
-    <Compile Include="Models\Menu.cs" />
+    <Compile Include="Abtracts\CurrentBase.cs" />
+    <Compile Include="Models\Log.cs" />
     <Compile Include="Models\MenuGroup.cs" />
-    <Compile Include="Models\Order.cs" />
-    <Compile Include="Models\OrderDetail.cs" />
-    <Compile Include="Models\Page.cs" />
-    <Compile Include="Models\Post.cs" />
-    <Compile Include="Models\PostCatelogy.cs" />
-    <Compile Include="Models\PostTag.cs" />
-    <Compile Include="Models\Product.cs" />
-    <Compile Include="Models\ProductCatelogy.cs" />
-    <Compile Include="Models\ProductTag.cs" />
-    <Compile Include="Models\Silde.cs" />
-    <Compile Include="Models\SupportOnline.cs" />
-    <Compile Include="Models\SystemConfig.cs" />
-    <Compile Include="Models\Tag.cs" />
-    <Compile Include="Models\VisitorStatistic.cs" />
+    <Compile Include="Models\MenuGroupDetail.cs" />
+    <Compile Include="Models\MenuRole.cs" />
+    <Compile Include="Models\Role.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Models\UserPassword.cs" />
+    <Compile Include="Models\UserRole.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

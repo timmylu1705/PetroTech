@@ -331,3 +331,6 @@ D:\Project\PetroTech\PetroTech.Main\obj\Debug\PetroTech.Main.csproj.CoreCompileI
 D:\Project\PetroTech\PetroTech.Main\obj\Debug\PetroTech.Main.csproj.CopyComplete
 D:\Project\PetroTech\PetroTech.Main\obj\Debug\PetroTech.Main.dll
 D:\Project\PetroTech\PetroTech.Main\obj\Debug\PetroTech.Main.pdb
+D:\Project\PetroTech\PetroTech.Main\bin\log4net.dll
+D:\Project\PetroTech\PetroTech.Main\bin\log4net.xml
+D:\Project\PetroTech\PetroTech.Main\bin\System.Diagnostics.Process.dll

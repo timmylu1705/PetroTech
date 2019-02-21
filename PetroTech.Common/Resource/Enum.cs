@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.ComponentModel;
 
 namespace PetroTech.Common.Resource
 {
@@ -16,13 +10,13 @@ namespace PetroTech.Common.Resource
             {
                 [Description("Active")]
                 A = 1,
+
                 [Description("Inactive")]
                 I = 2
             }
 
             public enum HomePage
             {
-
             }
         }
     }
