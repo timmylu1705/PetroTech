@@ -12,7 +12,6 @@ C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Common\obj\Debug\
 C:\Users\Tuyen.LC\Source\Repos\lctuyen1705\PetroTech\PetroTech.Common\obj\Debug\PetroTech.Common.pdb
 D:\Project\PetroTech\PetroTech.Common\bin\Debug\PetroTech.Common.dll
 D:\Project\PetroTech\PetroTech.Common\bin\Debug\PetroTech.Common.pdb
-D:\Project\PetroTech\PetroTech.Common\obj\Debug\PetroTech.Common.csprojAssemblyReference.cache
 D:\Project\PetroTech\PetroTech.Common\obj\Debug\PetroTech.Common.csproj.CoreCompileInputs.cache
 D:\Project\PetroTech\PetroTech.Common\obj\Debug\PetroTech.Common.dll
 D:\Project\PetroTech\PetroTech.Common\obj\Debug\PetroTech.Common.pdb

@@ -33,3 +33,4 @@ D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.csproj.CoreCompil
 D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.csproj.CopyComplete
 D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.dll
 D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.pdb
+D:\Project\PetroTech\PetroTech.Model\obj\Debug\PetroTech.Model.csprojAssemblyReference.cache

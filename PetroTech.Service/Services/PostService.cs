@@ -15,7 +15,7 @@ namespace PetroTech.Service.Services
 {
     public class PostService : IPostService
     {
-        #region Property
+        #region Fields
         IPostRepository _postRepo;
         IUnitOfWork _unitofwork;
         #endregion
